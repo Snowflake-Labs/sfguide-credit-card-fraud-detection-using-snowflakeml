@@ -6,4 +6,4 @@ In this guide, we will leverage the ML Capabilities of the Snowflake Data Cloud 
 
 
 Step-By-Step Guide
-For prerequisites, environment setup, step-by-step guide and instructions, please refer to the QuickStart Guide.> Coming soon
+For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [QuickStart Guide](https://quickstarts.snowflake.com/guide/credit-card-fraud-detection-using-snowflake-ml/index.html?index=..%2F..index#0)
